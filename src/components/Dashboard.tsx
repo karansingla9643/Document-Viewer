@@ -112,7 +112,7 @@ export const Dashboard = () => {
         <div className="flex items-center gap-4">
           <div className="flex items-center gap-3">
             <div className="w-8 h-8 bg-trik-orange-500 rounded-lg flex items-center justify-center">
-              <img src="../../public/trik.png" className="h-8 w-8" alt="TRIK Logo" />
+              <img src="/trik.png" className="h-8 w-8" alt="TRIK Logo" />
             </div>
             <span className="text-xl font-bold text-white">TRIK</span>
           </div>
